@@ -1,0 +1,22 @@
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.form-label, .lead{
+    color: deeppink;
+}
+
+.head{
+    color: #ff69b4;
+}
+
+#result {
+    margin-top: 20px;
+    color: lightcyan;
+    font-size: xx-large;
+    font-weight: bold;
+}
